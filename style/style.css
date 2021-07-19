@@ -336,11 +336,12 @@ footer a:hover {
   background-color: #76767631;
 }
 .layout-feedback {
-  margin: 30px auto 0 auto;
+  margin: 60px auto 0 auto;
   width: 420px;
   height: 540px;
   display: flex;
   padding: 35px 40px;
+
   position: relative;
   flex-flow: column nowrap;
   text-align: center;
